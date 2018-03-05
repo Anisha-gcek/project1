@@ -25,7 +25,7 @@ return $data;
 }
 
 ?>
-<h2>Php from validation Example</H2>
+<h2>Php from validation Example changed</H2>
 
 <form method="post" action+"<?php echo htmlspecialchars($_SERVER['PHP_SELF']);?>">
 
